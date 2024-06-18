@@ -56,14 +56,14 @@ async function listGames() {
 }
 
 
-//createPublisher('Nintendo', true, 'https://www.nintendo.com/');
-//createPublisher('Sony', true, 'https://www.sony.com/');
-//createPublisher('Sega', true, 'https://www.sega.com/');
+// createPublisher('Nintendo', true, 'https://www.nintendo.com/');
+// createPublisher('Sony', true, 'https://www.sony.com/');
+// createPublisher('Sega', true, 'https://www.sega.com/');
 
 
-//createGame('Sonic the Hedgehog', '62ea5c8deb0cc4db1eb95366');
-//createGame('Donkey Kong', '62ea5c8deb0cc4db1eb95364');
-//createGame('Pro evolution Soccer 5', '623a1ee700bba314366df2e4');
+// createGame('Sonic the Hedgehog', '62ea5c8deb0cc4db1eb95366');
+// createGame('Donkey Kong', '62ea5c8deb0cc4db1eb95364');
+// createGame('Pro evolution Soccer 5', '623a1ee700bba314366df2e4');
 
 
 //Crear juego buscando primero el ID de Sony
@@ -79,10 +79,10 @@ async function listGames() {
 }); */
 
 //Crear juego pasando el ID de Sony
-//createGame2('Crash Bandicoot 3', 'Sony');
+// createGame2('Crash Bandicoot 3', 'Sony');
 
 //Crear juego pasando el ID de Sony
-//createGame2('Tetris', 'Nintendo');
+// createGame2('Tetris', 'Nintendo');
 
 // Listar todos los juegos
-//listGames()
+listGames()
